@@ -1,11 +1,15 @@
 # myblog
 
+
+
 ## golang
 
 - [ ] context
 - [ ] slice map list (contrainer)
 - [ ] 定时任务
 - [ ] 类型互换
+
+[Go-channel](./Go-channel.md)
 
 ## c++
 
