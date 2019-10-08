@@ -1,3 +1,10 @@
+---
+title: Redis学习（一）数据类型
+date: 2019-10-06 21:50:54
+tags: ["redis","NoSQL"]
+categories: "redis"
+---
+
 # Redis学习（一）数据类型
 
 我们知道Redis的数据结构有五种，其分别是
