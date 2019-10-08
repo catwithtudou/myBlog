@@ -26,9 +26,10 @@
 
 ## redis
 
-- [x] Redis(一) 数据结构
 - [ ] Redis(二) 使用
 - [ ] Redis(三) 复杂度
+
+[Redis学习（一）数据类型](./Redis学习（一）数据类型.md)
 
 
 
