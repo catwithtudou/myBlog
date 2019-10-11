@@ -2,6 +2,27 @@
 
 - [ ] Hexo完善部署
 
+
+
+- [myblog](#myblog)
+  * [golang](#golang)
+  * [c++](#c++)
+  * [redis](#redis)
+  * [machine learning](#machine-learning)
+  * [matlab](#matlab)
+  * [微服务](#微服务)
+  * [数据结构](#数据结构)
+  * [杂记](#杂记)
+  * [算法](#算法)
+  * [编程练习题](#编程练习题)
+  * [计算机系统](#计算机系统)
+  * [设计模式](#设计模式)
+  * [随记](#随记)
+  * [项目反思](#项目反思)
+  * [C](#C)
+  * [Linux](#Linux)
+  * [计算机网络](#计算机网络)
+
 ## golang
 
 - [ ] context
@@ -202,6 +223,8 @@
 [C语言备课](./C语言备课.md)
 
 ## Linux
+
+- [ ] 部署Golang项目入服务器
 
 [Linux基础知识](./Linux基础知识/)
 
