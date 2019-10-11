@@ -1,6 +1,6 @@
 # myblog
 
-
+- [ ] Hexo完善部署
 
 ## golang
 
@@ -100,6 +100,8 @@
 [KMP](./KMP.md)
 
 ## 编程练习题
+
+- [ ] LeetCode[1/200]
 
 [两个有序链表序列的合并](./两个有序链表序列的合并.md)
 
@@ -202,4 +204,8 @@
 ## Linux
 
 [Linux基础知识](./Linux基础知识/)
+
+## 计算机网络
+
+[DHCP与NAT](./DHCP与NAT.md)
 
