@@ -40,6 +40,8 @@
 
 [Go-goroutine](./Go-goroutine.md)
 
+[golang项目部署至服务器](./golang项目部署至服务器.md)
+
 ## c++
 
 - [ ] stl库
@@ -224,9 +226,9 @@
 
 ## Linux
 
-- [ ] 部署Golang项目入服务器
-
 [Linux基础知识](./Linux基础知识/)
+
+[Linux/Ubuntu中端口相关操作](./Ubuntu中端口相关操作.md)
 
 ## 计算机网络
 
