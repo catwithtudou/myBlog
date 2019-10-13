@@ -188,6 +188,8 @@ categories: "XX"
 [排序](./排序.md)
 
 [Leetcode-1-两数之和](./Leetcode-1-两数之和.md)
+[ Leetcode-19-删除链表的倒数第 n 个节点](./ Leetcode-19-删除链表的倒数第 n 个节点.md)
+[Leetcode-21-合并两个有序链表](./Leetcode-21-合并两个有序链表.md)
 
 ## 计算机系统
 
