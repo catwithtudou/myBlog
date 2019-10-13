@@ -1,8 +1,13 @@
+---
+title: XXXX
+date: XXXX-XX-XX XX:XX:XX
+tags: ["XX"]
+categories: "XX"
+---
+
 # myblog
 
 - [ ] Hexo完善部署
-
-
 
 - [myblog](#myblog)
   * [golang](#golang)
@@ -226,7 +231,7 @@
 
 ## Linux
 
-[Linux基础知识](./Linux基础知识/)
+[Linux基础知识](./Linux基础知识.没得)
 
 [Linux/Ubuntu中端口相关操作](./Ubuntu中端口相关操作.md)
 
@@ -234,3 +239,6 @@
 
 [DHCP与NAT](./DHCP与NAT.md)
 
+## MySQL
+
+[MySQL 日志系统笔记](./MySQL 日志系统笔记.md)
