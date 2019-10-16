@@ -129,8 +129,6 @@ categories: "XX"
 
 ## 编程练习题
 
-- [ ] LeetCode[1/200]
-
 [两个有序链表序列的合并](./两个有序链表序列的合并.md)
 
 [一元多项式的乘法与加法运算](./一元多项式的乘法与加法运算.md)
@@ -191,6 +189,10 @@ categories: "XX"
 [ Leetcode-19-删除链表的倒数第 n 个节点](./ Leetcode-19-删除链表的倒数第 n 个节点.md)
 [Leetcode-21-合并两个有序链表](./Leetcode-21-合并两个有序链表.md)
 
+[Leetcode-141-环形链表](./Leetcode-141-环形链表.md)
+
+[Leetcode-206-反转链表](./Leetcode-206-反转链表.md)
+
 ## 计算机系统
 
 [计算机系统漫游](./计算机系统漫游.md)
@@ -244,3 +246,5 @@ categories: "XX"
 ## MySQL
 
 [MySQL 日志系统笔记](./MySQL 日志系统笔记.md)
+
+[MySQL 事务隔离笔记](./MySQL 事务隔离笔记.md)
