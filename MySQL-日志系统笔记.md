@@ -192,3 +192,6 @@ Binlog有两种模式，statement 格式的话是记sql语句， row格式会记
 
   崩溃恢复后会继续提交该commit状态
 
+## 参考
+
+<https://time.geekbang.org/column/intro/139>

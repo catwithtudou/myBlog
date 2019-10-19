@@ -254,3 +254,8 @@ categories: "XX"
 [MySQL-日志系统笔记](./MySQL-日志系统笔记.md)
 
 [MySQL-事务隔离笔记](./MySQL-事务隔离笔记.md)
+
+[MySQL-索引笔记(上)](./MySQL-索引笔记(上).md)
+
+[MySQL-索引笔记(下)](./MySQL-索引笔记(下).md)
+
