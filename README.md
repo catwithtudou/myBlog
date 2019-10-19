@@ -186,7 +186,9 @@ categories: "XX"
 [排序](./排序.md)
 
 [Leetcode-1-两数之和](./Leetcode-1-两数之和.md)
-[ Leetcode-19-删除链表的倒数第 n 个节点](./ Leetcode-19-删除链表的倒数第 n 个节点.md)
+
+[Leetcode-19-删除链表的倒数第 n 个节点](./ Leetcode-19-删除链表的倒数第 n 个节点.md)
+
 [Leetcode-21-合并两个有序链表](./Leetcode-21-合并两个有序链表.md)
 
 [Leetcode-141-环形链表](./Leetcode-141-环形链表.md)
@@ -219,7 +221,7 @@ categories: "XX"
 
 [设计模式-中介者模式](./设计模式-中介者模式.md)
 
-[设计模式-中介者模式](./设计模式-中介者模式.md)
+[设计模式-状态模式](./设计模式-状态模式.md)
 
 ## 随记
 
@@ -245,6 +247,6 @@ categories: "XX"
 
 ## MySQL
 
-[MySQL 日志系统笔记](./MySQL 日志系统笔记.md)
+[MySQL-日志系统笔记](./MySQL 日志系统笔记.md)
 
-[MySQL 事务隔离笔记](./MySQL 事务隔离笔记.md)
+[MySQL-事务隔离笔记](./MySQL 事务隔离笔记.md)
