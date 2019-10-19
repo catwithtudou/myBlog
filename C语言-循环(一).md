@@ -34,9 +34,6 @@ categories: "C"
 
   ![](https://raw.githubusercontent.com/catwithtudou/photo/master/L3MRROKC%4013%5DWA%5D4KECTL%7EB.jpg)
 
-- 高级的复读机
-
-  ![](https://raw.githubusercontent.com/catwithtudou/photo/master/BF1P)FZHR%5DNZTGJ99%7D%24(WNL.jpg)
 
 所以,有了循环,你复读起来就更加美好了呢!
 
