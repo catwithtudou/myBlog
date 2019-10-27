@@ -7,7 +7,7 @@ categories: "XX"
 
 # myblog
 
-- [ ] Hexo完善部署
+- [x] Hexo完善部署
 
 - [myblog](#myblog)
   * [golang](#golang)
@@ -34,6 +34,8 @@ categories: "XX"
 - [ ] slice map list (contrainer)
 - [ ] 定时任务
 - [ ] 类型互换
+- [ ] io流
+- [ ] 备课
 
 [Go-channel](./Go-channel.md)
 
