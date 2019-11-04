@@ -266,3 +266,6 @@ categories: "XX"
 [MySQL-索引笔记(下)](./MySQL-索引笔记(下).md)
 
 [MySQL-全局锁与表锁笔记](./MySQL-全局锁与表锁笔记.md)
+
+[MySQL-行锁与死锁笔记](./MySQL-行锁与死锁笔记.md)
+
