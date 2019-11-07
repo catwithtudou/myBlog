@@ -1,6 +1,6 @@
 ---
 title: C语言-数组
-date: 2019-10-29 01:01:01
+date: 2019-11-04 01:10:01
 tags: ["C"]
 categories: "C"
 ---
@@ -220,12 +220,151 @@ int main()
 - 最后,我们再在i位置赋上我们想要插入的那个数据
 
 ```c
+#include <stdio.h>
+#include <stdlib.h>
+#define N 5
 
+int main()
+{
+    int a[N]={1,2,3,4};
+    int length=4;
+    while(1)
+    {
+        int i;
+        int num;
+        printf("请输入要插入的位置:");
+        scanf("%d",&i);
+        printf("请输入想要插入的数字:");
+        scanf("%d",&num);
+        if(i>length||i<0)
+        {
+            printf("位置不存在\n");
+            continue;
+        }
+        if(length+1>N)
+        {
+            printf("数组空间已满\n");
+            break;
+        }
+        for(int j=length;j>=i;j--)
+            a[j+1]=a[j];
+        a[i]=num;
+        length++;
+        for(int j=0;j<length;j++)
+            printf("%d\t",a[j]);
+        printf("\n");
+    }
+}
 ```
 
+### 删除
 
+删除和插入的想法是一个道理
 
+同样需要判断数组空间是否为空
 
+然后在删除中我们需要做的将要删除的那一个位置开始把数组的数往前移
+
+```c
+#include <stdio.h>
+#include <stdlib.h>
+#define N 5
+
+int main()
+{
+    int a[N]={1,2,3,4};
+    int length=4;
+    while(1)
+    {
+        int i;
+        int num;
+        printf("请输入要删除的位置:");
+        scanf("%d",&i);
+        if(length-1<0)
+        {
+            printf("数组空间为空\n");
+            break;
+        }
+        if(i>length||i<0)
+        {
+            printf("位置不存在\n");
+            continue;
+        }
+        num=a[i];
+        for(int j=i;j<N;j++)
+            a[j]=a[j+1];
+        length--;
+        printf("要删除的数是:%d\n",num);
+        for(int j=0;j<length;j++)
+            printf("%d\t",a[j]);
+        printf("\n");
+    }
+}
+```
+
+## 二维数组
+
+其实二维数组的理解方式和一维数组并没有太大的区别
+
+其根本区别就在于二维数组的索引是二维的,而一维数组的索引是一维的
+
+- 语法
+
+  `datatype name[rowSize][colSize]`
+
+  ```c
+  //例如
+  int day[24][60];
+  double score[5][3];
+  
+  //例如
+  int a[5][3];
+  a[0][0],a[0][1],a[0][2]
+  a[1][0],a[1][1],a[1][2]
+  a[3][0],a[3][1],a[3][2]
+  .....
+  ```
+
+> 虽然二维数组在概念上是二维的,即是说其下标在两个方向上变化,下标变量在两个方向上变化
+>
+> 但是实际上,在存储器中还是和一维数组一样是连续编址,也就是说存储器单元是按一维线性排列的
+
+### 二维数组的使用
+
+#### 二维数组的初始化
+
+二维数组初始化也是在类型说明时给各下标变量赋以初值
+
+二维数组可按行分段也可按行连续赋值
+
+```c
+//例如
+int a[5][3]={{1,2,3},{4,5,6},{7,8,9},{10,11,12},{13,14,15}};
+int a[5][3]={1,2,3,4,5,6,7,8,9,10,11,12,13,14,15};
+
+//其他初始化方法,与一维数组一致
+//比如
+int a[3][3]={{1},{2},{3}};
+
+int a[2][3]={{1,2},{3}};
+
+int a[][3]={{1,2},{3,4}};
+```
+
+#### 二维数组的动态赋值
+
+```c
+#include<stdio.h>
+#define ROW 3
+#define COL 3
+int main()
+{
+    double score[ROW][COL];
+    for(int i=0;i<ROW;i++)
+        for(int j=0;j<COL;j++)
+            scanf("%d",score[i][j]);
+}
+```
 
 
 
