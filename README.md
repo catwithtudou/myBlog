@@ -269,3 +269,5 @@ categories: "XX"
 
 [MySQL-行锁与死锁笔记](./MySQL-行锁与死锁笔记.md)
 
+[MySQL-详解事务隔离笔记](./MySQL-详解事务隔离笔记.md)
+
