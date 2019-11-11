@@ -271,3 +271,4 @@ categories: "XX"
 
 [MySQL-详解事务隔离笔记](./MySQL-详解事务隔离笔记.md)
 
+[MySQL-普通索引与唯一索引笔记](./MySQL-普通索引与唯一索引笔记.md)
