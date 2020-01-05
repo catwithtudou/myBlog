@@ -2,7 +2,7 @@
 title: MySQL-详解事务隔离笔记
 date: 2019-11-09 15:55:14
 tags: ["MySQL"]
-categories: "mySQL"
+categories: "MySQL"
 ---
 
 # MySQL-详解事务隔离笔记
@@ -221,4 +221,3 @@ insert into t(id, c) values(1,1),(2,2),(3,3),(4,4);
 3, 事务B commit;
 4, 事务A update t set c = 0 where id = c; // 当前读； 此时已经没有匹配的行
 5， 事务A select * from t;
-  

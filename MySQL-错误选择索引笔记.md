@@ -2,7 +2,7 @@
 title: MySQL-错误选择索引笔记
 date: 2019-11-15 10:55:14
 tags: ["MySQL"]
-categories: "mySQL"
+categories: "MySQL"
 ---
 
 # MySQL-错误选择索引笔记

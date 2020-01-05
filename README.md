@@ -61,7 +61,7 @@ categories: "XX"
 
 [Redis学习（一）数据类型](./Redis学习（一）数据类型.md)
 
-
+[缓存策略和缓存故障](./缓存策略和缓存故障.md)
 
 ## machine learning
 
@@ -273,6 +273,13 @@ categories: "XX"
 
 [MySQL-详解事务隔离笔记](./MySQL-详解事务隔离笔记.md)
 
+[MySQL-错误选择索引笔记](./MySQL-错误选择索引笔记.md)
+
 [MySQL-普通索引与唯一索引笔记](./MySQL-普通索引与唯一索引笔记.md)
 
 [MySQL-选取字符串索引笔记](./MySQL-选取字符串索引笔记.md)
+
+[MySQL-脏页读取笔记](./MySQL-脏页相关笔记.md)
+
+[MySQL-删表陷阱相关笔记](./MySQL-删表陷阱相关笔记.md)
+
