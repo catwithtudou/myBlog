@@ -35,7 +35,6 @@ categories: "XX"
 - [ ] 定时任务
 - [ ] 类型互换
 - [ ] io流
-- [ ] 备课
 
 [Go-channel](./Go-channel.md)
 
@@ -247,9 +246,11 @@ categories: "XX"
 
 [C语言-指针与一维数组](./C语言-指针与一维数组.md)
 
+[C语言-字符串](./C语言-字符串.md)
+
 ## Linux
 
-[Linux基础知识](./Linux基础知识.没得)
+[Linux基础知识](./Linux基础知识.md)
 
 [Linux/Ubuntu中端口相关操作](./Ubuntu中端口相关操作.md)
 
