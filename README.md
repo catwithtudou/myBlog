@@ -284,3 +284,8 @@ categories: "XX"
 
 [MySQL-删表陷阱相关笔记](./MySQL-删表陷阱相关笔记.md)
 
+[MySQL-count()笔记](./MySQL-count()笔记.md)
+
+[MySQL-orderby笔记](./MySQL-orderby笔记.md)
+
+[MySQL-正确显示随机行数笔记](./MySQL-正确显示随机行数笔记.md)
