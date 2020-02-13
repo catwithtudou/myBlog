@@ -291,3 +291,5 @@ categories: "XX"
 [MySQL-正确显示随机行数笔记](./MySQL-正确显示随机行数笔记.md)
 
 [MySQL-索引函数性能影响笔记](./MySQL-索引函数性能影响笔记.md)
+
+[MySQL-查一行相关性能问题笔记](./MySQL-查一行相关性能问题笔记.md)
