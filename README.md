@@ -293,3 +293,5 @@ categories: "XX"
 [MySQL-索引函数性能影响笔记](./MySQL-索引函数性能影响笔记.md)
 
 [MySQL-查一行相关性能问题笔记](./MySQL-查一行相关性能问题笔记.md)
+
+[MySQL-幻读与间隙锁问题笔记](./MySQL-幻读与间隙锁问题笔记.md)
