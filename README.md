@@ -295,3 +295,5 @@ categories: "XX"
 [MySQL-查一行相关性能问题笔记](./MySQL-查一行相关性能问题笔记.md)
 
 [MySQL-幻读与间隙锁问题笔记](./MySQL-幻读与间隙锁问题笔记.md)
+
+[MySQL-加锁规则相关](./MySQL-加锁规则相关.md)
