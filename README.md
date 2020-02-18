@@ -297,3 +297,5 @@ categories: "XX"
 [MySQL-幻读与间隙锁问题笔记](./MySQL-幻读与间隙锁问题笔记.md)
 
 [MySQL-加锁规则相关](./MySQL-加锁规则相关.md)
+
+[MySQL-“饮鸩止渴”提高性能的方法笔记](./MySQL-"饮鸩止渴"提高性能的方法笔记.md)
