@@ -84,6 +84,8 @@ categories: "XX"
 
 [Week-9](./Week-9.md)
 
+[machine-learning 1 线性回归与非线性回归](./machine-learning 1 线性回归与非线性回归.md)
+
 ## matlab
 
 [matlab学习笔记](./matlab学习笔记.md)
